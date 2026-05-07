@@ -493,6 +493,3 @@ USER PRESSES BUTTON (Node A, P0.14)
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
